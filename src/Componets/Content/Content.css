@@ -1,0 +1,17 @@
+.content{
+    background-color: rgb(183, 186, 186);
+  margin-top: 7%;
+}
+.Input-cotent{
+    margin-top: 3%;
+}
+.cotent1{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(183, 186, 186);
+    
+}
+.content> button{
+    background-color: aqua;
+    margin-top: 2%;
+}
